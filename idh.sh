@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # Simple bash version of IDH
 VERSION="2.3.0"
